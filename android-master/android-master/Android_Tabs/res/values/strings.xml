@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Bases de Datos</string>
+    <string name="students_list_title">Listado</string>
+    <string name="new_student_title">Altas</string>
+    
+    <string name="menu_settings">Opciones</string>
+    
+    <string name="accept_message">Aceptar</string>
+    <string name="cancel_message">Cancelar</string>
+    <string name="empty_message">Sin datos</string>
+    <string name="registration_message">Alumno registrado</string>
+
+    <string name="name_label">Nombre</string>
+    <string name="subject_label">Asignatura</string>
+    <string name="registration_label">Alta</string>
+</resources>
